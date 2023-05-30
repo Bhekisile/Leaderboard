@@ -29,7 +29,6 @@ h1 {
   display: flex;
   justify-content: center;
   gap: 60px;
-  /* justify-content: space-between; */
   flex-wrap: wrap;
 }
 
@@ -72,8 +71,9 @@ input {
   font-size: 18px;
   font-weight: 500;
   height: 35px;
-  width: 100%;
+  width: 98%;
   margin-left: 0;
+  padding-left: 6px;
 }
 
 .newScore:nth-child(odd) {

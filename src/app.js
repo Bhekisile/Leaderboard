@@ -1,9 +1,9 @@
 import './styles.css';
 
-const submitBtn = document.getElementById('submit');
+const form = document.querySelector('form');
 const scoreList = document.getElementById('score-list');
 
-let scores = JSON.parse(localStorage.getItem('scores')) || [];
+const scores = JSON.parse(localStorage.getItem('scores')) || [];
 
 function Score(name, score) {
   this.name = name;
@@ -27,7 +27,7 @@ function addScore(name, score) {
   displayScores();
 }
 
-submitBtn.addEventListener('click', (e) => {
+form.addEventListener('submit', (e) => {
   e.preventDefault();
   const nameInput = document.getElementById('name');
   const scoreInput = document.getElementById('score');
