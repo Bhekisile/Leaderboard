@@ -72,8 +72,6 @@
 
 > Live demo will follow soon.
 
-- [Live Demo Link](https://google.com)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -116,7 +114,7 @@ Run the index.html with your preferred browser.
 👤 **Bhekisile Jozi**
 
 - GitHub: [@githubhandle](https://github.com/Bhekisile)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bhekisile-jozi-b9823369/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bhekisile-j-b9823369/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,6 +158,6 @@ I would like to thank Microverse for this great opportunity!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
