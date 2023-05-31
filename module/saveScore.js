@@ -15,7 +15,6 @@ const saveScore = async (gameId, name, score) => {
     const { result } = await response.json();
     return result;
   } catch (error) {
-    // console.error(error);
     return null;
   }
 };
