@@ -33,7 +33,9 @@ module.exports = {
   // plugins
   plugins: [
     new HtmlWebpackPlugin({
-      template: './src/index.html',
+      template: path.resolve(__dirname, 'src/index.html'),
+      title: 'Leaderboard',
+      filename: 'index.html',
     }),
   ],
 };

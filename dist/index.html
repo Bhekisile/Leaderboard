@@ -5,19 +5,27 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Leaderboard</title>
-<script defer src="main.9fff35808eb401c72af6.js"></script></head>
+<script defer src="main.5dae6a9acbedd853fd38.js"></script></head>
 <body>
     <h1>Leaderboard</h1>
-    <div class="col1">
-        <h2>Recent scores</h2>
-        <button type="submit" id="refresh">Refresh</button>
-        <div id="scores"></div>
-    </div>
-    <div class="col2">
-        <h2>Add your score</h2>
-        <div id="yName"></div>
-        <div id="yScore"></div>
-        <button type="submit" id="submit">Submit</button>
+    <div class="container">
+        <div class="col1">
+            <div class="row1">
+                <h2>Recent scores</h2>
+                <button type="submit" id="refresh">Refresh</button>
+            </div>
+            <ul id="score-list" class="border"></ul>
+        </div>
+        <div class="col2">
+            <form>
+                <h2>Add your score</h2>
+                <label></label>
+                <input type="text" id="name" placeholder="Your name">
+                <label></label>
+                <input type="text" id="score" placeholder="Your score">
+                <button type="submit" id="submit">Submit</button>
+            </form>
+        </div>
     </div>
 </body>
 </html>
