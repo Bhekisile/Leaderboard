@@ -2,7 +2,7 @@ const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
-  mode: 'development', // production
+  mode: 'development',
   entry: {
     main: path.resolve(__dirname, 'src/app.js'),
   },
@@ -33,7 +33,9 @@ module.exports = {
   // plugins
   plugins: [
     new HtmlWebpackPlugin({
-      template: './src/index.html',
+      template: path.resolve(__dirname, 'src/index.html'),
+      title: 'Leaderboard',
+      filename: 'index.html',
     }),
   ],
 };
