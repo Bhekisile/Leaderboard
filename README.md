@@ -122,7 +122,7 @@ Run the index.html with your preferred browser.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Send and receive data from API]**
+- [ ] **[]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,10 +154,8 @@ I would like to thank Microverse for this great opportunity!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
-
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
