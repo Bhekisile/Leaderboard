@@ -122,7 +122,7 @@ Run the index.html with your preferred browser.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[]**
+- [ ] **[Vertical alignment in list column]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
