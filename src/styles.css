@@ -69,7 +69,6 @@ h2 {
 form {
   display: flex;
   flex-direction: column;
-  /* background-color: aqua; */
   width: 350px;
   height: 200px;
   padding-left: 30px;
