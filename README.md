@@ -84,7 +84,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-Live server,
+Live server, and
 npm
 
 ### Setup
@@ -101,9 +101,8 @@ Install this project with:
 
 - Install Node Modules
 
-`   ```sh
 `   npm install
-`   ```
+` 
 
 ### Usage
 
@@ -111,9 +110,8 @@ To run the project, execute the following command:
 
 - Start the development server
 
-`   ```sh
 `   npm run dev
-`   ```
+`
 
 <!-- AUTHORS -->
 
