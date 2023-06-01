@@ -84,7 +84,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-Live server
+Live server, and
 npm
 
 ### Setup
@@ -93,19 +93,25 @@ Clone this repository to your desired folder:
 
 Example commands:
 
-  git clone git@github.com:myaccount/
+  git clone git@github.com:Bhekisile/Leaderboard.git
 
 ### Install
 
 Install this project with:
 
-- Clone this Repo to your local machine and run in your preferred text editor(ex. Atom, VScode).
+- Install Node Modules
+
+`   npm install
+` 
 
 ### Usage
 
 To run the project, execute the following command:
 
-Run the index.html with your preferred browser.
+- Start the development server
+
+`   npm run dev
+`
 
 <!-- AUTHORS -->
 
@@ -122,7 +128,7 @@ Run the index.html with your preferred browser.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[]**
+- [ ] **[Vertical alignment in list column]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
